@@ -1,10 +1,8 @@
 ## Summary
-
-<!-- Describe the change and why it's needed. -->
+*Describe the change and why it's needed*
 
 ## Changes
-
-- <!-- List what changed -->
+*List what changed*
 
 ## Testing
 
@@ -13,11 +11,9 @@
 - [ ] Not tested (not relevant)
 
 ## Testing evidence
-Please provide testing evidence for this pull request if relevant. Screenshots/video for ui changes and postman screenshot for backend changes
+*Please provide testing evidence for this pull request if relevant. Screenshots/video for ui changes and postman screenshot for backend changes*
 
 ## Checklist
 
 - [ ] Code follows project conventions
 - [ ] No new warnings or errors
-
-Closes #
